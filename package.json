@@ -1,0 +1,25 @@
+{
+  "name": "basic-information-site-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mariga94/basic-information-site-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mariga94/basic-information-site-node/issues"
+  },
+  "homepage": "https://github.com/Mariga94/basic-information-site-node#readme",
+  "dependencies": {
+    "i": "^0.3.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "description": "a simple basic information site"
+}
